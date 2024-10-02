@@ -1,0 +1,14 @@
+.send_otp:hover{
+    background-color: crimson;
+    color: aliceblue;
+    
+}
+.send_otp{
+    background-color: #fbd0d9;
+    border-radius: 5px;
+    width: 80px;
+    height: 35px;
+    color: crimson;
+    margin-left: 380px;
+}
+
